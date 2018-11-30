@@ -1,5 +1,5 @@
-# PostgreSQL 11 in 7 days [Video]
-This is the code repository for [PostgreSQL 11 in 7 days [Video]](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-11-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=9781789614374), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# PostgreSQL 11 in 7 days 
+This is the code repository for [PostgreSQL 11 in 7 days ](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-11-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=9781789614374), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 	Companies value their data; as a result, it's becoming more important for professionals to have technical knowledge of data management. PostgreSQL is by far one of the most popular and powerful SQL engines among other platforms such as MariaDB, MySQL, and SQL Server.
 
