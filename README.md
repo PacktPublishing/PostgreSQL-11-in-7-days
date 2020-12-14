@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/postgresql-11-in-7-days-video/9781789614374)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # PostgreSQL 11 in 7 days 
 This is the code repository for [PostgreSQL 11 in 7 days ](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-11-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=9781789614374), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
